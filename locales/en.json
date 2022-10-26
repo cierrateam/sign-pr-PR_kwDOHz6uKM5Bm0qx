@@ -1,0 +1,197 @@
+{
+    "header": {
+        "getStarted": "Get started",
+        "integrations": "Integrations",
+        "features": "Features",
+        "faq": "FAQ",
+        "pricing": "Pricing",
+        "signIn": "Sign in",
+        "button": "Get Started"
+    },
+    "footer": {
+        "newsletter": {
+            "title": "Sign to our newsletter",
+            "placeholder": "Enter your email",
+            "subtitle": "By sending this you agree to our ",
+            "link": "Data privacy."
+        },
+        "privacy": "Data privacy",
+        "impressum": "Impressum",
+        "terms": "Terms of service",
+        "copyright": "© 2022 Cierra. Made with ",
+        "location": " in Göttingen."
+    },
+    "banner": {
+        "title1": "Digitale Signatur ",
+        "title2": "leicht gemacht",
+        "title3": " für KMUs",
+        "description": "Die datenschutzkonforme Software für digitale Signatur mit white-label Option, und GraphQL-API.",
+        "button": "Start a free trial"
+    },
+    "getStarted": {
+        "title1": "Getting ",
+        "title2": "started ",
+        "title3": "with us",
+        "button": "Get started",
+        "arrow": {
+            "title": "Click ”Get started”",
+            "description": "Lorem ipsum dolor sit amet, conse ctetur adipiscing lorem eliteque ut curabitur semper in."
+        },
+        "frame": {
+            "title": "Complete the registration",
+            "description": "Lorem ipsum dolor sit amet, conse ctetur adipiscing lorem eliteque ut curabitur semper in."
+        },
+        "check": {
+            "title": "Start uploading and sign",
+            "description": "Lorem ipsum dolor sit amet, conse ctetur adipiscing lorem eliteque ut curabitur semper in."
+        }
+    },
+    "tools": {
+        "title": "the tools you love",
+        "description1": "Lorem ipsum dolor sit amet, conse ctetur adipiscing lorem eliteque ut curabitur semper in  ipsum dolor sit amet, conse ctetu ipsum dolor sit amet, conse cteturr.",
+        "description2": "Lorem ipsum dolor sit amet, conse ctetur adipiscing lorem eliteque ut curabitur semper in. "
+    },
+    "steps": {
+        "title1": "Sign ",
+        "title2": "the documents with a ",
+        "title3": "simple ",
+        "title4": "interface",
+        "sign": {
+            "title": "Sign effortlessly",
+            "description": "Lorem ipsum dolor sit amet, conse ctetur adipiscing lorem eliteque ut curabitur semper in. Lorem ipsum dolor sit amet, conse ctetur adipiscing lorem eliteque ut."
+        },
+        "stay": {
+            "title": "Stay compliant",
+            "description": "Lorem ipsum dolor sit amet, conse ctetur adipiscing lorem eliteque ut curabitur semper Lorem ipsum dolor sit amet, conse ctetur adipiscing lorem eliteque ut curabitur semper in."
+        },
+        "multiple": {
+            "title": "Multiple signature options",
+            "description": "Lorem ipsum dolor sit amet, conse ctetur adipiscing lorem eliteque ut curabitur semper Lorem ipsum dolor sit amet, conse ctetur adipiscing lorem eliteque ut curabitur semper in."
+        },
+        "workflow": {
+            "title": "Configure workflow",
+            "description": "Lorem ipsum dolor sit amet, conse ctetur adipiscing lorem eliteque ut curabitur semper Lorem ipsum dolor sit amet, conse ctetur adipiscing lorem eliteque ut curabitur semper in."
+        }
+    },
+    "questions": {
+        "title": "Frequently asked questions",
+        "question1": {
+            "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 1",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magnis egestas eget elementum leo sit molestie varius. Turpis tortor et scelerisque tortor. Elit feugiat enim neque quis tincidunt orci sem molestie. Semper eu dis amet, consectetur 1"
+        },
+        "question2": {
+            "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 2",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magnis egestas eget elementum leo sit molestie varius. Turpis tortor et scelerisque tortor. Elit feugiat enim neque quis tincidunt orci sem molestie. Semper eu dis amet, consectetur 2"
+        },
+        "question3": {
+            "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 3",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magnis egestas eget elementum leo sit molestie varius. Turpis tortor et scelerisque tortor. Elit feugiat enim neque quis tincidunt orci sem molestie. Semper eu dis amet, consectetur 3"
+        },
+        "question4": {
+            "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 4",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magnis egestas eget elementum leo sit molestie varius. Turpis tortor et scelerisque tortor. Elit feugiat enim neque quis tincidunt orci sem molestie. Semper eu dis amet, consectetur 4"
+        },
+        "question5": {
+            "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 5",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magnis egestas eget elementum leo sit molestie varius. Turpis tortor et scelerisque tortor. Elit feugiat enim neque quis tincidunt orci sem molestie. Semper eu dis amet, consectetur 5"
+        },
+        "question6": {
+            "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 6",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magnis egestas eget elementum leo sit molestie varius. Turpis tortor et scelerisque tortor. Elit feugiat enim neque quis tincidunt orci sem molestie. Semper eu dis amet, consectetur 6"
+        },
+        "question7": {
+            "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 7",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magnis egestas eget elementum leo sit molestie varius. Turpis tortor et scelerisque tortor. Elit feugiat enim neque quis tincidunt orci sem molestie. Semper eu dis amet, consectetur 7"
+        }
+    },
+    "sign": {
+        "title": "Sign your next document using",
+        "button": "Access the product"
+    },
+    "pricing": {
+        "title1": "Fair pricing ",
+        "title2": "to keep your business growing",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fames adipiscing odio urna leo eu facilisis tortor.",
+        "toggleInput": {
+            "monthly": "Monthly",
+            "yearly": "Yearly",
+            "absolute": "Save up to 50%"
+        },
+        "cards": {
+            "free": {
+                "title": "Free",
+                "frequency": "per user",
+                "description": "Enjoy our platform with limited restrictions.",
+                "features": {
+                    "text1": "Individual",
+                    "text2": "Branding on contracts",
+                    "text3": "Max 1 User",
+                    "text4": "Maximal 500MB Speicher"
+                },
+                "button": "Get started"
+            },
+            "unlimited": {
+                "title": "Unlimited",
+                "frequency": "per user",
+                "description": "A plan that scales with your rapidly growing business.",
+                "features": {
+                    "text1": "Unlimited accounts",
+                    "text2": "Unlimited documents",
+                    "text3": "Custom branding",
+                    "text4": "Advanced analytics",
+                    "text5": "Unlimited subscribers"
+                },
+                "button": "Get started"
+            },
+            "enterprise": {
+                "title": "Enterprise",
+                "description": "Dedicated support and infrastructure for your company.",
+                "features": {
+                    "text1": "Unlimited accounts",
+                    "text2": "Unlimited documents",
+                    "text3": "Custom branding",
+                    "text4": "Advanced analytics",
+                    "text5": "Unlimited subscribers",
+                    "text6": "SSO with SAML",
+                    "text7": "Self hosted option"
+                },
+                "button": "Contact us"
+            }
+        },
+        "mostPopular": "Most popular",
+        "type": {
+            "month": "month",
+            "year": "year"
+        }
+    },
+    "cookieBanner": {
+        "title": "Diese Website verwendet Cookies",
+        "description": "Diese Website verwendet Cookies um dein Benutzererlebnis zu verbessern. Wenn du auf \"Einverstanden\" klickst, akzeptierst du diese Cookies.",
+        "agreeButton": "Einverstanden",
+        "settingButton": "Cookie Einstellungen",
+        "setting": {
+            "title": "Cookie Einstellungen",
+            "description": {
+                "text": "Unsere Website verwendet drei Arten von Cookies. Du kannst deine Einstellungen jederzeit anpassen. Wenn du mehr Informationen darüber, welche Cookies was über dich speichern, wünscht findest du diese in unserer",
+                "link": "Datenschutzerklärung."
+            },
+            "acceptAllButton": "Alle Cookies annehmen",
+            "saveButton": "Speichern",
+            "abortButton": "Abbrechen",
+            "checkboxList": {
+                "necessaryCookie": {
+                    "label": "Technisch notwendige Cookies",
+                    "description": "sind notwendige Cookies welche sicherstellen, dass diese Website funktioniert und deine Einstellungen (z.B. deine Sprache) erkannt und gespeichert werden."
+                },
+                "analysisCookie": {
+                    "label": "Cookies zur Analyse",
+                    "description": "erlauben uns, unsere Website stetig zu verbessern um allen Nutzern bessere Inhalte zu präsentieren."
+                },
+                "marketingCookie": {
+                    "label": "Marketing Cookies",
+                    "description": "erlauben uns dein Erlebnis auf unserer Seite personalisiert zu gestalten und dir nur relevante Inhalte anzuzeigen. Auf dieser Website und auch auf anderen."
+                }
+            }
+        }
+    }
+}
